@@ -1,0 +1,13 @@
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.csprojResolveAssemblyReference.cache
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.csproj.CoreCompileInputs.cache
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\bin\Debug\cis 115 final 2.exe.config
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\bin\Debug\cis 115 final 2.exe
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\bin\Debug\cis 115 final 2.pdb
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.exe
+C:\Users\joeyr\Desktop\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis 115 final 2\cis 115 final 2\bin\Debug\cis 115 final 2.exe.config
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis 115 final 2\cis 115 final 2\bin\Debug\cis 115 final 2.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis 115 final 2\cis 115 final 2\bin\Debug\cis 115 final 2.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\cis 115 final 2\cis 115 final 2\obj\Debug\cis 115 final 2.csprojResolveAssemblyReference.cache
